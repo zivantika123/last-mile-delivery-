@@ -17,9 +17,6 @@ A beautiful, interactive dashboard for analyzing delivery performance with real-
 
 🚀 Quick Start
 bash
-# Clone repository
-git clone https://github.com/yourusername/last-mile-delivery-analytics.git
-cd last-mile-delivery-analytics
 
 # Install dependencies
 pip install -r requirements.txt
